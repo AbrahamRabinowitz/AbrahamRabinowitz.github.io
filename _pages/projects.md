@@ -4,20 +4,20 @@ permalink: /projects/
 author_profile: true
 ---
 
-<a id="classifier"></a>
+<a id="CAN"></a>
 
-## Classifying arXiv Math Publications By Subject
+## Implementation of a Cellular Attention Netowrk
 
-The [arXiv](https://arxiv.org) is a large free repository hosting papers across many STEM disciplines. Below is a model which predicts the relevant subject tags of a math paper based only on its title. The details of the model are explained below.
+ [Cell Attention](https://arxiv.orghttps://arxiv.org/abs/2209.08179) networks are a type of neural network architecture used for graph representation learning tasks where the graphs have faces in addition to nodes and edges. It learns edge features via a combination of incident edges that share nodes, and incident edges that share a face. This implementation was contributed to the topological deep learning library [TopoModelX](https://github.com/pyt-team/TopoModelX/). Below we show a snapshot of a Jupyter Notebook Tutorial
 
-<iframe
+<!-- <iframe
     src="https://mlgeis-arxiv-subject-classifier-demo.hf.space"
     frameborder="0"
     width="780"
     height="800"
-></iframe>
+></iframe> -->
 
-### Inference Pipeline
+<!-- ### Inference Pipeline
 
 - #### Preprocessing
     - The title is retrieved from the input ID via a call to the arXiv API.
@@ -31,11 +31,11 @@ The [arXiv](https://arxiv.org) is a large free repository hosting papers across 
 
 #### Model Training
 
-The huggingface model is an example of a "fine-tuned" model. The transformer model responsible for generating the vector representation of the input text is pretrained, and these weights are not modified. However, the classification head is trained on a dataset consisting of about 40,000 (title,label) pairs. This dataset was extracted from a random sample of 10% of all of the math articles contained in the [full arXiv kaggle dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv)
+The huggingface model is an example of a "fine-tuned" model. The transformer model responsible for generating the vector representation of the input text is pretrained, and these weights are not modified. However, the classification head is trained on a dataset consisting of about 40,000 (title,label) pairs. This dataset was extracted from a random sample of 10% of all of the math articles contained in the [full arXiv kaggle dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv) -->
 
-<a id="recommender"></a>
+<a id="HousingPrices"></a>
 
-## A Nearest-Neighbor Based Recommender System for Math Articles
+<!-- ## A Nearest-Neighbor Based Recommender System for Math Articles
 
 Below is a content based recommender for arXiv math articles. It returns the 5 most similar math articles to an input. See below for a discussion of how it works.
 
@@ -55,12 +55,12 @@ is embedded in a vector space in such a way that papers pointing 'in the same di
 ### Unsupervised Topic Modeling
 - Additionally, we performed unsupervised topic modeling on our recommendation library using [BERTopic.](https://maartengr.github.io/BERTopic/index.html) BERTopic works by applying the [HDBSCAN.](https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html) clustering algorithm on the embedded articles. A variant of tf-idf is then run on each cluster to extract the common topics present. Here is a picture of the embedding space after applying the [UMAP](https://umap-learn.readthedocs.io/en/latest/) dimension reduction. Keywords for the strongest topic clusters are shown on the right.
 
-![Topic Modeling](/images/topicmodeling.png "Visualization of clusters and corresponding topics after dimension reduction.")
+![Topic Modeling](/images/topicmodeling.png "Visualization of clusters and corresponding topics after dimension reduction.") -->
 
 
-<a id="cs229"></a>
+<a id="cs231"></a>
 
-## Stanford CS229 "Intro to Machine Learning" Personal Notes and Problem Set Solutions
+<!-- ## Stanford CS229 "Intro to Machine Learning" Personal Notes and Problem Set Solutions
 
 The following is a collection of notes and exercises written while following the Stanford CS 229 "Intro to Machine Learning" course. [Full repository of course materials can be found here.](https://github.com/maxim5/cs229-2018-autumn) All lectures are available on [YouTube.](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
@@ -84,4 +84,4 @@ The following is a collection of notes and exercises written while following the
 - #### Problem Set 3
     - [Properties of the Kullback-Liebler Divergence](https://github.com/Michael-Geis/CS-229-F18-Solutions/blob/main/PS2/PS2-6.ipynb)
     - [Kullback-Liebler Divergence, Fisher Information, and the Natural Gradient](https://github.com/Michael-Geis/CS-229-F18-Solutions/blob/main/PS3/PS3%20Solutions/PS3-3%20KL%20divergence%2C%20Fisher%20information%2C%20natural%20gradient.ipynb)
-    - [Expectation Maximization Algorithm and a Semi-Supervised Variant](https://github.com/Michael-Geis/CS-229-F18-Solutions/blob/main/PS3/PS3%20Solutions/PS3-4%20Semi-supervised%20EM.ipynb)
+    - [Expectation Maximization Algorithm and a Semi-Supervised Variant](https://github.com/Michael-Geis/CS-229-F18-Solutions/blob/main/PS3/PS3%20Solutions/PS3-4%20Semi-supervised%20EM.ipynb) -->

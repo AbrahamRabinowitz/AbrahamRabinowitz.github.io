@@ -5,17 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-## [Scaling asymptotics for ladder sequences of spherical harmonics at caustic latitudes](https://arxiv.org/abs/2208.02770)
+## [Szegő kernel asymptotics and concentration of Husimi Distributions of eigenfunctions](https://arxiv.org/abs/2202.14013)
 
-### We prove that certain 'ladder' sequences of spherical harmonics are Lagrangian distributions whose semi-classical $L^2$ mass lies over a band around the standard equator of $S^2$ bounded by latitude circles which are caustics. We derive Airy scaling asymptotics for such sequences in a shrinking neighborhood of these caustic latitudes.
+### In this paper we derive scaling asymptotics for tempered sums of Husimi Distributions within a parabolically frequency rescaled neighborhood of a neighborhood of the flow of the classical dynamics. The asymptotic formulae are expressed in terms of the metaplectic representation of the linearization of the geodesic flow on Bargmann-Fock Space. As a corollary we obtain sharp $L^p$ estimates for Husimi Distributions on the Grauert Tube Boundary.
 
-*Scaling Asymptotics for Ladder Sequences of Spherical Harmonics at Caustic Latitudes, Pre-print, arXiv:2208.02770*"
+(Joint with Robert Chang) *Szegő kernel asymptotics and concentration of Husimi Distributions of eigenfunctions (preprint submitted to Communications in Analysis and Geometry)*
 
-## [Concentration of quantum integrable eigenfunctions on a convex surface of revolution](https://arxiv.org/abs/2008.12482)
+## [Scaling asymptotics for Szegő kernels on Grauert tubes](https://arxiv.org/abs/2107.05105)
 
-### We compute weak-$*$ limits of normalized empirical measures of joint eigenfunctions of the Laplacian and the generator of the $S^1$ symmetry on a convex surface of revolution. These measures detect the relative amounts of $L^2$ mass concentration of mass of the eigenfunctions restricted to the unique $S^1$ invariant geodesic, $H$. 
+### In this paper we explain an extension of a theory of phase space quantum mechanics to curved surfaces and provide scaling asymptotics of tempered sums of complexified Laplace eigenfunctions in a parabolically frequency rescaled neighborhood of the diagonal. We recover the Szego kernel for reduced Heisenberg space as the leading order term, providing evidence for the Grauert Tube setting as an appropriate generalization of Husimi Distributions on Bargmann-Fock space.
 
-*Concentration of Quantum Integrable Eigenfunctions on a Convex Surface of Revolution, arXiv: 2008.12482, submitted for review, Journal of Spectral Theory.*
+(Joint with Robert Chang)*Scaling Asymptotics for Szegő Kernels on Grauert Tubes (Published in the [Journal of Geometric Analysis](https://link.springer.com/article/10.1007/s12220-022-01116-6))*
+
+For an explanation of this research tailored to a more general audience (with some necessary corners cut), please see the slides below.
 
 
 {% if author.googlescholar %}
