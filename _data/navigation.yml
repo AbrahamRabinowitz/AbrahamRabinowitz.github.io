@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Selected Projects"
-    url: /projects/
+  # - title: "Selected Projects"
+  #   url: /projects/
 
-  - title: "Publications"
+  - title: "Research and Publications"
     url: /publications/
+  
+  - title: "My Research for a General Audience"
+    url: /files/GeneralAudienceSlides.pdf
 
   - title: "Resume"
     url: /files/resume.pdf
