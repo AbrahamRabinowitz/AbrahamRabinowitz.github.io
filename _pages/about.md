@@ -5,7 +5,7 @@ excerpt: "About Me"
 author_profile: true
 ---
 
-I am a mathematician, data scientist and open source developer interested in bringing my deep research and technical experience to tackle problems of national interest.
+I am a mathematician, data scientist and open source developer interested in bringing my deep research and technical experience to tackle data driven problems.
 
 I completed my Ph.D. in mathematics under the supervision of Steve Zelditch. My thesis is entitled [Scaling Asymptotics of Szego Kernels and Concentration of Husimi Distributions on Grauert Tubes](https://arch.library.northwestern.edu/concern/generic_works/qr46r123s?locale=en)
 
