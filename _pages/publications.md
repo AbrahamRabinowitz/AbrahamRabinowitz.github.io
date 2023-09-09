@@ -17,7 +17,7 @@ author_profile: true
 
 (Joint with Robert Chang)*Scaling Asymptotics for Szegő Kernels on Grauert Tubes (Published in the [Journal of Geometric Analysis](https://link.springer.com/article/10.1007/s12220-022-01116-6))*
 
-For an explanation of this research tailored to a more general audience (with some necessary corners cut), please see the slides below.
+For an explanation of this research tailored to a more general audience (with some necessary corners cut), please see [here](https://abrahamrabinowitz.github.io/files/GeneralAudienceSlides.pdf).
 
 
 {% if author.googlescholar %}
