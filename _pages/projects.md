@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Selected Projects"
 permalink: /projects/
 author_profile: true
@@ -843,4 +843,4 @@ The following is a collection of notes and exercises written while following the
 - #### Problem Set 3
     - [Properties of the Kullback-Liebler Divergence](https://github.com/Michael-Geis/CS-229-F18-Solutions/blob/main/PS2/PS2-6.ipynb)
     - [Kullback-Liebler Divergence, Fisher Information, and the Natural Gradient](https://github.com/Michael-Geis/CS-229-F18-Solutions/blob/main/PS3/PS3%20Solutions/PS3-3%20KL%20divergence%2C%20Fisher%20information%2C%20natural%20gradient.ipynb)
-    - [Expectation Maximization Algorithm and a Semi-Supervised Variant](https://github.com/Michael-Geis/CS-229-F18-Solutions/blob/main/PS3/PS3%20Solutions/PS3-4%20Semi-supervised%20EM.ipynb) -->
+    - [Expectation Maximization Algorithm and a Semi-Supervised Variant](https://github.com/Michael-Geis/CS-229-F18-Solutions/blob/main/PS3/PS3%20Solutions/PS3-4%20Semi-supervised%20EM.ipynb) --> -->
