@@ -9,5 +9,5 @@ main:
   - title: "My Research for a General Audience"
     url: /files/GeneralAudienceSlides.pdf
 
-  - title: "Resume"
-    url: /files/ResumeGeneral.pdf
+  # - title: "Resume"
+  #   url: /files/ResumeGeneral.pdf
